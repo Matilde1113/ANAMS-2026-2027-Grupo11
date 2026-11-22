@@ -1,4 +1,4 @@
-# ANAMS-2026-2027
+# ANAMS-2026-2027- Grupo 11
 
 # Assistente Digital de Vestuário – Grupo 11
 

@@ -4,10 +4,6 @@
 
 Trabalho prático de Análise e Modelação de Sistemas (2026/2027).
 
-## 📄 Relatórios
-- [Relatório – Iteração 1](Documentos/Relatorio_IT1_Grupo11.pdf)
-- Relatório – Iteração 2 
-
 ## 💻 Código
 A aplicação Java está na pasta [AssistenteVestuario](AssistenteVestuario).
 
